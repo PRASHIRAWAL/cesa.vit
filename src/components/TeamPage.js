@@ -10,8 +10,8 @@ const Card = ({ children }) => <div className="card">{children}</div>;
 const CardContent = ({ children }) => <div className="card-content">{children}</div>;
 
 const teamMembers = [
-  { name: "MRS. SUJA JAYACHANDRAN", role: "CONVENOR", image: "/images/convenor.jpeg", department: "Convenors" },
-  { name: "MRS. SNEHAL ANDHARE", role: "CO-CONVENOR", image: "/images/convenor2.jpg", department: "Convenors" },
+  { name: "Dr. SUJA JAYACHANDRAN", role: "CONVENOR", image: "/images/convenor.jpeg", department: "Convenors" },
+  { name: "Prof. SNEHAL ANDHARE", role: "CO-CONVENOR", image: "/images/convenor2.jpg", department: "Convenors" },
   { name: "SIDDHI", role: "CHAIRPERSON", image: "/images/1.png", department: "Executives" },
   { name: "MANPREET", role: "GENERAL SECRETARY", image: "/images/2.png", department: "Executives" },
   { name: "SHRAVANI", role: "VICE CHAIRPERSON", image: "/images/3.png", department: "Executives" },
